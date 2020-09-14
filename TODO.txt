@@ -1,0 +1,21 @@
+1. Wireframing - Draw through sketch of what 
+TODO We are going to implement this features to the app.
+2. Functionality
+    *Sign In
+    *Sign up
+    *crete a channel
+    *send message in channel
+    *join a channel
+    *Search a channel
+    
+? Which kind of dependencies we are going to use ?
+3. Data
+    * Users
+    * Channels
+    * messages 
+    
+4. UI/UX        
+    * Sidebar
+      - ListOfChannels
+      - ListOfDirectMessages
+      
