@@ -18,4 +18,9 @@ TODO We are going to implement this features to the app.
     * Sidebar
       - ListOfChannels
       - ListOfDirectMessages
-      
+    * MainContainer
+      - Header
+      - Message
+      - CreateMessage
+    * SignIn
+    * SignUp      

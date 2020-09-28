@@ -1,5 +1,10 @@
-import React from "react";
+import React from 'react';
+import Movie from './Components/Movie';
 
 export default () => {
-  return <div>Hello Aman</div>;
+  return (
+    <div>
+      <Movie />
+    </div>
+  );
 };
